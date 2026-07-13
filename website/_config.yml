@@ -1,0 +1,13 @@
+title: ML4GW+Controls Workshop
+email: deep1018@mit.edu
+description: 1-day Workshop on Machine Learning for Gravitational-Wave data analysis and controls.
+baseurl: "/iucaa-workshop-2026"
+url: "https://ml4gw.github.io"
+paginate: 5
+theme-dark: false
+exclude:
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+

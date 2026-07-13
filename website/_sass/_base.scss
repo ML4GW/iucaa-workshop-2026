@@ -1,0 +1,25 @@
+/* Workshop agenda list */
+.agenda-list {
+  li {
+    font-size: 1.25em;
+    line-height: 1.6;
+    margin-bottom: 0.6em;
+    list-style: none;
+  }
+
+  li a {
+    font-size: inherit;
+  }
+}
+
+/* Session page content styling */
+.session-content {
+  ul, ol {
+    margin-bottom: 1em;
+  }
+  
+  li {
+    margin-bottom: 0.5em;
+    font-size: inherit;     // force list items to use body text size
+  }
+}
