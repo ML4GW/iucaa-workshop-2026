@@ -8,9 +8,9 @@
  * Light color palette
  */
 $l-text-color:       #111;
-$l-link-color:       #A67C00;
+$l-link-color:       #A52A2A;
 $l-background-color: #fdfdfd;
-$l-brand-color:      #B8860B;
+$l-brand-color:      #A52A2A;
 $l-grey-color:       #828282;
 $l-grey-color-light: lighten($l-grey-color, 40%);
 $l-grey-color-dark:  darken($l-grey-color, 25%);
@@ -25,7 +25,7 @@ $l-page: $l-link-color;
 $d-text-color:       #e7e7e7;
 $d-link-color:       #cccccc;
 $d-background-color: #191919;
-$d-brand-color:      #2a7ae2;
+$d-brand-color:      #A52A2A;
 $d-grey-color:       #A7A7A7;
 $d-grey-color-light: lighten($l-grey-color, 40%);
 $d-grey-color-dark:  darken($l-grey-color, 25%);

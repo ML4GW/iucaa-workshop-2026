@@ -4,18 +4,18 @@ title: About
 nav_exclude: true
 ---
 
-# ML4GW+Controls on Sept 25, 2026
-
-This workshop introduces the tools, pipelines, and techniques at the
+This workshop introduces the tools, software, and techniques at the
 intersection of **machine learning** and **gravitational-wave science** —
-from neural-network fundamentals to AI-assisted detector control.
+from neural-network applications in data analysis to AI-assisted detector control.
 
-**This is an in-person event**.
-Preceding the main workshop, there will be a
-**keynote <a href="{{ "/lecture/" | prepend: site.baseurl }}">lecture</a>**  on
-**Sept 24, 2026** by Prof. [Ajit Kembhavi](https://en.wikipedia.org/wiki/Ajit_Kembhavi).
+**This is an in-person event**. There will be a mix of tutorials and demos on
+the use of neural networks and AI for data analysis and controls. There will be a
+**keynote <a href="{{ "/lecture/" | prepend: site.baseurl }}">lecture</a>**  in
+the afternoon of **Sept 25, 2026** by Prof. [Ajit Kembhavi](https://en.wikipedia.org/wiki/Ajit_Kembhavi).
+See the <a href="{{ "/agenda/" | prepend: site.baseurl }}">agenda</a> for more
+details.
 
-**Dates:** Sept 24, 2026 - keynote lecture; Sept 25, 2026 - workshop
+**Date:** <span style="color:brown">Sept 25, 2026</span>
 
 **Location:** IUCAA
 
