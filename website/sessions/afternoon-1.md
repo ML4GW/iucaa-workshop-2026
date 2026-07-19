@@ -11,4 +11,5 @@ session: true
 
 See the **<a href="{{ "/lecture/" | prepend: site.baseurl }}">lecture</a>** tab for details.
 
+---
 [← to Agenda]({{ "/agenda/" | prepend: site.baseurl }})

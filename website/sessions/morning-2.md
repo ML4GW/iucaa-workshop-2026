@@ -19,4 +19,5 @@ prototypes using these tools.
 
 **Prototypes of search and parameter estimation**
 
+---
 [← to Agenda]({{ "/agenda/" | prepend: site.baseurl }})

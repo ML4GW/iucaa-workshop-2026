@@ -20,5 +20,5 @@ using neural-networks.
 
 **Bayesian inference toy problem:** linear regression
 
-
+---
 [← to Agenda]({{ "/agenda/" | prepend: site.baseurl }})

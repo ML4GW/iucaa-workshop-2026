@@ -17,5 +17,7 @@ permalink: /agenda/
 
 <p style="margin-top:1em;"><strong>Lunch break:</strong> 12:45 &ndash; 14:15</p>
 
+---
+
 [← to Home]({{ "/" | prepend: site.baseurl }})
 
