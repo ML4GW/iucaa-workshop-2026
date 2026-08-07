@@ -7,7 +7,7 @@ nav_exclude: true
 session: true
 ---
 
-# Morning Session II — 11:15 to 12:45  — Data analysis II
+# Morning II — 11:15 to 12:45  — Data analysis II
 
 This session will introduce the [ML4GW](https://github.com/ML4GW) software ecosystem.
 This will be followed by a tutorial on building a search and parameter estimation

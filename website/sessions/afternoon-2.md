@@ -7,7 +7,7 @@ nav_exclude: true
 session: true
 ---
 
-# Afternoon Session II — 15:30 to 18:00  — Sensing & Controls
+# Afternoon II — 15:30 to 18:00  — Sensing & Controls
 
 This session will introduce participants to the essential components required to
 intelligently sense and control a hardware system. Participants will assemble
