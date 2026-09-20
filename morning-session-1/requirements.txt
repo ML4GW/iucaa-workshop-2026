@@ -1,0 +1,5 @@
+torch>=2.5.0
+matplotlib
+pyro-ppl
+scikit-learn
+jupyter
