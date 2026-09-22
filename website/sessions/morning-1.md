@@ -21,6 +21,7 @@ using neural-networks.
 **Bayesian inference toy problem:** linear regression
 
 Material is provided in [this](https://github.com/ML4GW/iucaa-workshop-2026/tree/main/morning-session-1) repository.
+It is recommended that you create your environment before the session. Instructions are in the README under the link.
 
 ---
 [← to Agenda]({{ "/agenda/" | prepend: site.baseurl }})

@@ -19,5 +19,10 @@ prototypes using these tools.
 
 **Prototypes of search and parameter estimation**
 
+Material is provided in [this](https://github.com/ML4GW/iucaa-workshop-2026/tree/main/morning-session-2) repository.
+It is recommended that you create your environments before the session and have the data from GWOSC downloaded
+before the session. Instructions are in the README under the link.
+
+
 ---
 [← to Agenda]({{ "/agenda/" | prepend: site.baseurl }})
