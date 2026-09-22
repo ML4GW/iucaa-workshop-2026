@@ -4,6 +4,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 *.orig
+.ipynb_checkpoints
 
 # Bundler/local gems
 vendor/
@@ -11,3 +12,6 @@ vendor/
 
 # Virtual environment
 .venv
+
+# data folders
+morning-session-2/data

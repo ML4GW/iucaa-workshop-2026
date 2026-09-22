@@ -1,0 +1,11 @@
+bilby
+corner
+ml4gw>=0.7.8
+gwpy[gwf]>=3.0
+h5py>=3.12
+jupyter
+lightning>=2.4.0
+matplotlib
+pyro-ppl
+rich>=10.2.2,<14.0
+torchmetrics>=1.6

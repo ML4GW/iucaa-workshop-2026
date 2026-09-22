@@ -16,5 +16,5 @@ When running the notebook, use the interpreter in `morning-session-1/.venv/bin/p
 
 # Notebooks
 
-There are two notebooks for this session: one for function approximation, another for
-distribution approximation, named accordingly.
+There are three notebooks in this session: covering function approximation, distribution approximation,
+and doing a toy problem on linear regression using likelihood-free inference.
