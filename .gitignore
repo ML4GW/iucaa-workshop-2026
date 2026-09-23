@@ -5,6 +5,7 @@ _site/
 .jekyll-metadata
 *.orig
 .ipynb_checkpoints
+logs/
 
 # Bundler/local gems
 vendor/

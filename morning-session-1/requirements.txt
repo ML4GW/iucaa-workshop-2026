@@ -1,3 +1,4 @@
+bilby
 torch>=2.5.0
 lightning
 matplotlib
