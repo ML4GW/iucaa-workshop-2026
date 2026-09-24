@@ -9,6 +9,8 @@ session: true
 
 # Morning I — 9:30 to 10:45 — Data analysis I
 
+**Location:** Bhaskara 3, IUCAA
+
 An introductory session covering the basic ideas behind neural networks, especially the function
 and distribution approximation property. This will be followed by a toy problem of linear regression
 using neural-networks.

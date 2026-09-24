@@ -9,6 +9,8 @@ session: true
 
 # Afternoon II — 15:30 to 18:00  — Sensing & Controls
 
+**Location:** TLC Floor-1 smart classroom, IUCAA
+
 This session will introduce participants to the essential components required to
 intelligently sense and control a hardware system. Participants will assemble
 a physical plant and integrate the necessary sensors and actuators. They will

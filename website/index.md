@@ -17,7 +17,7 @@ details.
 
 **Date:** <span style="color:brown">Sept 25, 2026</span>
 
-**Location:** IUCAA
+**Location:** Bhaskara 3 & TLC smart classroom, IUCAA
 
 **Organizing Team**
 - Deep Chatterjee, MIT

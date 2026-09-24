@@ -9,6 +9,8 @@ session: true
 
 # Morning II — 11:15 to 12:45  — Data analysis II
 
+**Location:** Bhaskara 3, IUCAA
+
 This session will introduce the [ML4GW](https://github.com/ML4GW) software ecosystem.
 This will be followed by a tutorial on building a search and parameter estimation
 prototypes using these tools.
