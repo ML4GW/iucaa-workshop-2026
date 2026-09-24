@@ -16,7 +16,7 @@ and distribution approximation property. This will be followed by a toy problem 
 using neural-networks.
 
 
-**Intro slides**
+**Intro slides** ([link]({{ "/sessions/intro-slides.pdf" | prepend: site.baseurl }}))
 
 **Tutorial on neural networks as approximators**
 
