@@ -30,8 +30,8 @@ for (start, end) in segments:
 
 # also download frame files around GW250104
 urls = [
-    "https://gwosc.org/archive/data/O4b3Disc_4KHZ_R1/1420820480/H-H1_GWOSC_O4b3Disc_4KHZ_R1-1420877824-4096.gwf",
-    "https://gwosc.org/archive/data/O4b3Disc_4KHZ_R1/1420820480/L-L1_GWOSC_O4b3Disc_4KHZ_R1-1420877824-4096.gwf",
+    "https://gwosc.org/archive/data/O4b_4KHZ_R1/1420820480/H-H1_GWOSC_O4b_4KHZ_R1-1420877824-4096.gwf",
+    "https://gwosc.org/archive/data/O4b_4KHZ_R1/1420820480/L-L1_GWOSC_O4b_4KHZ_R1-1420877824-4096.gwf",
 ]
 
 for url in urls:
